@@ -4,7 +4,7 @@
 
 1. 总长度：反映特征的整体重要性（对所有类别的平均影响）。
 2. 每种颜色的长度：反映该特征对某个特定类别的预测影响大小。
-3. 纵轴：列出了 Iris 数据集的四个特征（petal length, petal width, sepal length, sepal width）。横轴：表示 mean(|SHAP value|)，即特征对模型输出的平均影响大小（绝对值的平均）。横轴：表示 mean(|SHAP value|)，即特征对模型输出的平均影响大小（绝对值的平均）。
+3. 纵轴：列出了 Iris 数据集的四个特征（petal length, petal width, sepal length, sepal width）。横轴：表示 mean(|SHAP value|)，即特征对模型输出的平均影响大小（绝对值的平均）。
 
 ### 第二张图（SHAP Force Plot for Sample 0（单个样本在 的力图））
 
